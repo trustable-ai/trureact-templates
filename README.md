@@ -1,10 +1,9 @@
 # Trustable Notebooks
 
-- [App Suite](app-suite.md) Simple Productivity App suite
-- [HR Tool](hr-tool.md) Human Resources Manager
-- [Signal Room](signal-room.md) Operations Dashboard
-- [Evidence Workflow](evidence-workflow.md) Evidence workflow
-- [Security Check](security-check.md)
-- [Mini CRM](mini-crm.md)
-- [API Status Monitor](api-status-monitor.md)
-- [Project Dashboard ](project-dashboard.md)
+- [App Suite](appsuite.md) Simple Productivity App suite
+- [Mini CRM](minicrm.md) Mini Customer Relation Manager
+- [API Status Monitor](apistatusmonitor.md) API Status Mpnitor
+- [Project Dashboard](projectdashboard.md) Project Dashboard
+- [Security Check](securitycheck.md) Security Check
+
+
