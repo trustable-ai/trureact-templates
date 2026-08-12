@@ -1,4 +1,4 @@
-# Trustable Notebooks
+# Apps
 
 - [App Suite](appsuite.md) Simple Productivity App suite
 - [Mini CRM](minicrm.md) Mini Customer Relation Manager
