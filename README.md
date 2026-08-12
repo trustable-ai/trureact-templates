@@ -5,5 +5,7 @@
 - [API Status Monitor](apistatusmonitor.md) API Status Mpnitor
 - [Project Dashboard](projectdashboard.md) Project Dashboard
 - [Security Check](securitycheck.md) Security Check
+- [Security Check 2](securitycheck2.md) Security Check
+
 
 
